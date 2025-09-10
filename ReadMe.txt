@@ -18,9 +18,15 @@ Ma Git cheat-sheet (personnelle) :
 - git branch -M main : Renommer la branche courante en main
 - git checkout -b nom : Créer et basculer sur une nouvelle branche
 - git push -u origin main : Pousser la branche main sur le serveur
+- git pull: Récupère tout l'historique du dépôt  nommé et incorpore les modifications
 - git pull --rebase origin main : Récupérer les modifications du serveur et les appliquer proprement
 - git log --oneline --graph --all : Voir l’historique simplifié
 - git revert <hash> : Annuler un commit fautif sans écraser l’historique
+- git config --global user.name "[nom]"
+- git config --global user.email "[adresse email]"
+- git diff : montre les modifications de fichier qui ne sont pas encore indexées
+- git reset --hard[commit]: supprime tout l'historique et les modifications effectuées après le commit spécifié
+- git fetch [nom-de-depot]: Récupère tout l'historique du dépôt nommé
 
 Retour d’expérience sur les issues :
 ------------------------------------
@@ -33,7 +39,7 @@ Retour d’expérience sur les issues :
 - Une issue bien structurée facilite la communication et accélère la correction.
 
 ====================================================
-Auteur : Guilavogui Siba
-Partenaire simulé : Elvis
-Session : Hiver 2025
+Membre A : Guilavogui Siba
+Membre B : Elvis
+Session : Automne 2025
 ====================================================
