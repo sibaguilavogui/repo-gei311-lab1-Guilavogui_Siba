@@ -1,6 +1,14 @@
 ====================================================
 ReadMe - Laboratoire 1 : Gestion de version (Git/GitHub)
 ====================================================
+Informations personnelles :
+---------------------------
+- Nom : Guilavogui
+- Prénom : Siba
+- Code permanent : GUIS15049901
+- Université : UQAC
+- Session : Automne 2025
+- Collaborateur : Elvis
 
 Résumé de mes apprentissages :
 ------------------------------

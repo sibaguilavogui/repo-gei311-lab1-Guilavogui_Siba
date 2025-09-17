@@ -1,0 +1,4 @@
+* 97a95e9 Correction : fusion du contenu dans textA.txt et suppression de textA
+* 4e85041 Ajout de la ligne collaboration avec Elvis dans textA.txt
+* e76a050 Ajout du dossier B et fichier textB.txt par B
+* 9de42b6 Ajout initial d un dossier A et d un fichier textA.txt par Guilavogui Siba
