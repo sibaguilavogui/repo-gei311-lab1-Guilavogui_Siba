@@ -1,8 +1,8 @@
-====================================================
+
 ReadMe - Laboratoire 1 : Gestion de version (Git/GitHub)
-====================================================
+
 Informations personnelles :
----------------------------
+
 - Nom : Guilavogui
 - Prénom : Siba
 - Code permanent : GUIS15049901
@@ -11,13 +11,13 @@ Informations personnelles :
 - Collaborateur : Elvis
 
 Résumé de mes apprentissages :
-------------------------------
+
 - J’ai appris à initialiser un dépôt local, à le publier sur GitHub et à le synchroniser.
 - J’ai simulé la collaboration entre deux membres (moi et Elvis) en utilisant soit des branches, soit des clones séparés.
 - J’ai compris l’importance des issues pour décrire un problème et du revert pour corriger sans casser l’historique.
 
 Ma Git cheat-sheet (personnelle) :
-----------------------------------
+
 - git init : Initialiser un dépôt local
 - git clone <url> : Cloner un dépôt distant
 - git status : Voir l’état du répertoire de travail
@@ -37,7 +37,7 @@ Ma Git cheat-sheet (personnelle) :
 - git fetch [nom-de-depot]: Récupère tout l'historique du dépôt nommé
 
 Retour d’expérience sur les issues :
-------------------------------------
+
 - Une bonne issue doit contenir :
   * Un titre clair décrivant le problème.
   * Le contexte (dans quel fichier, quelle partie du projet).
@@ -46,8 +46,7 @@ Retour d’expérience sur les issues :
   * Les références (hash du commit fautif, dernier commit fonctionnel).
 - Une issue bien structurée facilite la communication et accélère la correction.
 
-====================================================
 Membre A : Guilavogui Siba
 Membre B : Elvis
 Session : Automne 2025
-====================================================
+
